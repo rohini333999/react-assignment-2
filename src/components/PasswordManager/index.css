@@ -1,0 +1,32 @@
+.app-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  min-height: 100vh;
+}
+.add-password-container {
+  background-color: #5763a5;
+  border-radius: 20px;
+}
+.create-password {
+  background-color: #454f84;
+  width: 50%;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+.website {
+  background-color: white;
+}
+.add-password-image {
+  height: 400px;
+  width: 500px;
+}
+.show-password-container {
+  background-color: #5763a5;
+  margin: 20px;
+}
+.search-password-container {
+  display: flex;
+  flex-direction: row;
+}

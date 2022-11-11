@@ -1,0 +1,19 @@
+.password-details-container {
+  display: flex;
+  border: 1px solid white;
+  color: white;
+  width: 30%;
+}
+.user-details {
+  display: flex;
+  flex-direction: column;
+}
+.delete-button {
+  height: 30px;
+  width: 30px;
+  background-color: transparent;
+}
+.delete-image {
+  height: 30px;
+  width: 30px;
+}
